@@ -1,5 +1,5 @@
 body{
-	background: #d2d2c1 url("../img/fundo.png") repeat;
+	background: #d2d2c1 url('../img/fundo.png') repeat;
 	font: 16px Arial, Helvetica, sans-serif;
 }
 
@@ -26,4 +26,13 @@ a{
 
 .centralizar {
 	text-align: center;
+}
+
+.img-campanha {
+	border: 10px solid #c3c3ae;
+}
+
+h1 {
+	color: #828271;
+	font-size: 1.2em;
 }
